@@ -1,0 +1,219 @@
+<div class="home">
+		<div class="container">
+			<h3 class="col-md-6">Marbella</h3>
+			<nav>
+				<ul class="nav nav-pills">
+					<li><a href="#">Home</a></li>
+					<li><a href="#skill">Skill</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#portfolio">Portfolio</a></li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
+			</nav>
+			<h1 class="col-md-8 col-md-offset-2 text-center">PORTFOLIO IN FUNDUMENTAL OF WEB </h1>
+			<div class="social col-md-4 col-md-offset-4">
+				<a href=https://github.com/markmarbella022/markmarbella022/projects?type=beta target="_blank"><img src="https://i.imgur.com/MNw8yAW.png"></a>
+				<a href=https://www.facebook.com/mcpogi02/ target="_blank"><img src="https://i.imgur.com/7WOBoX6.png"></a>
+				<a href=https://codepen.io/Marbellachan-codepen-io/pen/poadzme target="_blank"><img src="https://i.imgur.com/KtrEUYX.png"></a>
+				<a href=https://www.instagram.com/ target="_blank"><img src="https://i.imgur.com/9dNLvu5.png"></a>
+			</div>
+			<a class="btn col-md-offset-6" href="#skill">&#8964;</a
+		</div>
+	</div>
+	<div class="quote">
+		<div class="container">
+			<h2 class="col-md-10 col-md-offset-1 text-center">Welcome to my portfolio
+
+l am Mark Chan Marbella, Owner
+
+What do l do, and what's in it for you?
+
+My goal is to help you do more, get more done, and have more fun in your day-to-day life. If you want to be healthy, wealthy, wise, and happy, you'll find my research quite useful.</h2>
+		</div>
+	</div>
+	<div class="skills" id="skill">
+		<div class="container">
+			<h2 class="text-center">SKILL</h2>
+			<hr>
+			<p class="text-center">This is programming languages and frameworks that I used in my projects.</p>
+			<div class="html col-md-3 text-center">
+				<img src=https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png>
+				<h4>HTML</h4>
+				<hr>
+				<p class="text-justify"><b>Having the knowledge to build our own </b>website with HTML gives us the chance to stand out from the crowd with an authentic, hand-crafted representation of our business, or any business for that matter. Save money on every site we may want to build in the future, and build better websites with HTML.</p>
+			</div>
+			<div class="css col-md-3 text-center">
+				<img src=https://www.thoughtco.com/thmb/aKrYWqUXZgnIEyVpZl5iQBn6o40=/3499x2334/filters:fill(auto,1)/laptop-with-css-word-on-screen--learn-css--web-development-877009350-5b7b7c26c9e77c00507ccf75-b94287046011490c8538a8cd4cb3e1d1.jpg>
+				<h4>CSS</h4>
+				<hr>
+				<p class="text-justify"><b>CSS is a basic expectation for many roles</b>  It affects the entire look and feel of the website, making it an incredibly powerful tool for website developers to learn. Cascading Style Sheets or CSS are an important way to control how your Web pages look. CSS can control texts, fonts, design, background, alignment, margin.
+</p>
+			</div>
+			<div class="js col-md-3 text-center">
+				<img src=https://www.w3schools.com/whatis/img_js.png>
+				<h4>JAVASCRIPT</h4>
+				<hr>
+				<p class="text-justify"><b>JavaScript</b> JavaScript 
+Expert. There are several JavaScript frameworks and tools to make a JavaScript programmer's work easier.</p>
+			</div>
+			<div class="jquery col-md-3 text-center">
+				<img src=https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png>
+				<h4>JQUERY</h4>
+				<hr>
+				<p class="text-justify"><b>jQuery</b>jQuery was introduced to make development with JavaScript easier. It will reduce the development time. Use it to add animation and even handling on your website. jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. </p>
+			</div>
+		</div>
+	</div>
+
+	<div class="quote1">
+		<div class="container">
+			<h2 class="col-md-10 col-md-offset-1 text-center">Welcome to my portfolio
+
+l am Mark Chan Marbella, Owner </h2>
+		</div>
+	</div>
+
+	<div class="about" id="about">
+		<div class="container">
+			<h2 class="text-center me">ABOUT ME</h2>
+			<hr>
+			<img src=https://scontent.fmnl30-2.fna.fbcdn.net/v/t39.30808-6/276313086_5176492389081303_871383823677564736_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFoYw2_PqXu_rzV6S1v_sLSET_ihLPamW8RP-KEs9qZb_cV9OQAFvIZjC3hIzVfeXi-rYzplG70Pg0BozzwOE3s&_nc_ohc=uwLxWdX0GBQAX8djmwC&_nc_ht=scontent.fmnl30-2.fna&oh=00_AT8nKoF5csYBLjI6VT2lCGj4CtGRqw9pGoHRFTUiQD3ecQ&oe=62B806BF class="col-md-3 img-circle">
+			<h2 class="col-md-9 hello">HELLO I AM MARK</h2>
+			<p class="col-md-7"> I am Mark Chan Marbella From STI College Las Piñas who is currently from the BSCS course. Hard work and determination are key aspects of defining who I am. I discovered this in high school. basketball career when I overcame many major injuries. From this experience, I realized that the only limit to my success was myself. I carry this ideology. with me and will for the rest of my life. My priority long -term goals are to build a career. I'm confident there My skills, competitive edge, attention to detail, and passion for it, are a great contribution to me. achieving career goals. I value a harmonious work environment, effective leadership, and creativity. meaningful relationships. These values ​​are important to the career I am pursuing. Through my experience of adversity, I have discovered a core strength that drives me to overcome anything. An obstacle life can throw at me. It also gave me confidence that I could do amazing things when I put myself in mind on something. I believe that by shifting that mentality into my professional career, heaven is the limit.</p>
+		</div>
+	</div>
+
+	<div class="portfolio" id="portfolio">
+		<div class="container">
+			<h2 class="text-center">MY PORTFOLIO</h2>
+			<hr>
+			<div class="laptop">
+			<div class="col-md-4">
+			<p class="col-md-12 text-center">
+			<img src="https://i.imgur.com/UjV1SYk.png" data-other-src=https://media.geeksforgeeks.org/wp-content/uploads/20210307133314/Inputplaceholder.png class="col-md-12 bill" value="billpop">PLACE HOLDER</p></div>
+			<div class="col-md-4">
+			<p class="col-md-12 text-center">
+			<img src="https://i.imgur.com/UjV1SYk.png" data-other-src=https://res.cloudinary.com/practicaldev/image/fetch/s--d5pSUXFM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/zwu6ropxidlaybuzw2k4.png class="col-md-12" value="calcpop">CALCULATOR</p></div>
+			<div class="col-md-4">
+			<p class="col-md-12 text-center">
+			<img src="https://i.imgur.com/UjV1SYk.png" data-other-src=https://simplesnippets.tech/wp-content/uploads/2018/10/what-is-document-object-model-in-JS-featured-image-1280x720.jpg class="col-md-12" value="twichpop">DOM DOCUMENT OBJECT MODEL</p></div>
+			<div class="col-md-4">
+			<p class="col-md-12 text-center">
+			<img src="https://i.imgur.com/UjV1SYk.png" data-other-src=https://codeconvey.com/wp-content/uploads/2019/04/registration-form-in-html-with-validation.jpg class="col-md-12" value="pomodoropop">REGISTER</p></div>
+			<div class="col-md-4">
+			<p class="col-md-12 text-center">
+			<img src="https://i.imgur.com/UjV1SYk.png" data-other-src=https://enhancv.com/static/18b49c769954f1730e1db2f79436fb7b/c9503/mark-zuckerberg-resume.jpg class="col-md-12" value="quotepop">CURRICULUM VITAE</p></div>
+			<div class="col-md-4">
+			<p class="col-md-12 text-center">
+			<img src="https://i.imgur.com/UjV1SYk.png" data-other-src=https://media.cheggcdn.com/media/733/733c2dcf-a6ff-45f5-9f30-c92a892d071f/phpXypSUH class="col-md-12" value="simonpop">BOOK TITLE </p></div>
+			<div class="col-md-4">
+			<p class="col-md-12 text-center">
+			<img src="https://i.imgur.com/UjV1SYk.png" data-other-src=https://uploads.toptal.io/blog/image/91906/toptal-blog-image-1450878074544-6ac0c91e0fa4d4f38361cde5b1356681.gif class="col-md-12" value="tictacpop">RESPONSIVE WEB DESIGN</p></div>
+			</div>
+		</div>
+	</div>
+
+	<div class="contact" id="contact">
+		<div class="container">
+			<h2 class="text-center">GET IN TOUCH</h2>
+			<hr>
+			<input type="text" name="name" class="col-md-3 col-md-offset-2" placeholder="Name">
+			<input type="text" name="name" class="col-md-3 col-md-offset-1" placeholder="E-mail">
+			<textarea name="Text1" class="col-md-7 col-md-offset-2 message" placeholder="Message"></textarea>
+			<input type="submit" name="submit" value="Send" class="col-md-2 col-md-offset-4 submit">
+		</div>
+	</div>
+	
+	<footer>
+	<div class="container">
+		<p>Coded by Mark</p>
+		</div>
+	</footer>
+
+	<div class="popup">
+	</div>
+
+	<div class="container billpop style">
+		<div class="col-md-8 col-md-offset-2">
+			<img src=https://media.geeksforgeeks.org/wp-content/uploads/20210307133314/Inputplaceholder.pngclass="col-md-6">
+			<p class="paraf"><b>Website Name:</b> PLACE HOLDER</p>
+			<p><b>Coded:</b> Mark</p>
+			<p><b>Using:</b> HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY</p>
+			<p><b>About:</b>The placeholder attribute specifies a short hint that describes the expected value of a input field / textarea. The short hint is displayed in the field before the user enters a value. .</p>
+			<p><a href="https://codepen.io/Marbellachan-codepen-io/pen/poadzme" target="_blank">Visit site<span class="glyphicon glyphicon-share"></span></a></p>
+			<span class="glyphicon glyphicon-remove-circle close"></span>
+		</div>
+		</div>
+
+	<div class="container calcpop style">
+		<div class="col-md-8 col-md-offset-2">
+			<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--d5pSUXFM--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/zwu6ropxidlaybuzw2k4.png class="col-md-6">
+			<p class="paraf"><b>Website Name:</b> Calculator</p>
+			<p><b>Coded:</b> Mark</p>
+			<p><b>Using:</b> HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY</p>
+			<p><b>About:</b> Calculator with basic function. You can use addition, subtraction, multiplication, division</p>
+			<p><a href= https://codepen.io/markchanmarbella/pen/xxpeKmM
+            target="_blank">Visit site<span class="glyphicon glyphicon-share"></span></a></p>
+			<span class="glyphicon glyphicon-remove-circle close"></span>
+		</div>
+		</div>
+
+	<div class="container twichpop style">
+		<div class="col-md-8 col-md-offset-2">
+			<img src=https://simplesnippets.tech/wp-content/uploads/2018/10/what-is-document-object-model-in-JS-featured-image-1280x720.jpg class="col-md-6">
+			<p class="paraf"><b>Website Name:</b> DOM</p>
+			<p><b>Coded:</b> Mark</p>
+			<p><b>Using:</b> HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY</p>
+			<p><b>About:</b>The Document Object Model (DOM) is a programming API for HTML and XML documents . It defines the logical structure of documents and the way a document is accessed and manipulated. </p>
+			<p><a href=https://codepen.io/markchan-codepen-io/pen/wvyNymQ target="_blank">Visit site<span class="glyphicon glyphicon-share"></span></a></p>
+			<span class="glyphicon glyphicon-remove-circle close"></span>
+		</div>
+		</div>
+
+	<div class="container pomodoropop style">
+		<div class="col-md-8 col-md-offset-2">
+			<img src=https://codeconvey.com/wp-content/uploads/2019/04/registration-form-in-html-with-validation.jpg class="col-md-6">
+			<p class="paraf"><b>Website Name:</b> REGISTER</p>
+			<p><b>Coded:</b> Mark</p>
+			<p><b>Using:</b> HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY</p>
+			<p><b>About:</b>An online registration form is a digitized document that allows you to capture information from users who want to attend an event you are planning (such as a conference, a class, or a party, both online and offline). .</p>
+			<p><a href=https://codepen.io/markchanmarbella/pen/gOoVaKp target="_blank">Visit site<span class="glyphicon glyphicon-share"></span></a></p>
+			<span class="glyphicon glyphicon-remove-circle close"></span>
+		</div>
+		</div>
+
+	<div class="container quotepop style">
+		<div class="col-md-8 col-md-offset-2">
+			<img src=https://enhancv.com/static/18b49c769954f1730e1db2f79436fb7b/c9503/mark-zuckerberg-resume.jpg class="col-md-6">
+			<p class="paraf"><b>Website Name:</b> CURRICULUM VITAE</p>
+			<p><b>Coded:</b> Mark</p>
+			<p><b>Using:</b> HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY</p>
+			<p><b>About:</b>A curriculum vitae is an exhaustive listing of all of the significant achievements in your career. This includes education, research, work experience, publications, presentations, and anything else you've done in your professional life. </p>
+			<p><a href=https://codepen.io/Marbella-Marbella-codepen-io/pen/yLpZjKV target="_blank">Visit site<span class="glyphicon glyphicon-share"></span></a></p>
+			<span class="glyphicon glyphicon-remove-circle close"></span>
+		</div>
+		</div>
+
+		<div class="container simonpop style">
+		<div class="col-md-8 col-md-offset-2">
+			<img src=https://media.cheggcdn.com/media/733/733c2dcf-a6ff-45f5-9f30-c92a892d071f/phpXypSUH class="col-md-6">
+			<p class="paraf"><b>Website Name:</b> BOOK TITLE </p>
+			<p><b>Coded:</b> Mark</p>
+			<p><b>Using:</b> HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY</p>
+			<p><b>About:</b> The title is the first thing the potential reader sees or hears about your book—even before the cover in most cases—and getting it right is the single most important book marketing decision you'll make. The title forms the basis of the reader's judgment about your book </p>
+			<p><a href=https://codepen.io/Marbellachan-codepen-io/pen/BaYLvBL target="_blank">Visit site<span class="glyphicon glyphicon-share"></span></a></p>
+			<span class="glyphicon glyphicon-remove-circle close"></span>
+		</div>
+		</div>
+
+		<div class="container tictacpop style">
+		<div class="col-md-8 col-md-offset-2">
+			<img src=https://uploads.toptal.io/blog/image/91906/toptal-blog-image-1450878074544-6ac0c91e0fa4d4f38361cde5b1356681.gif class="col-md-6">
+			<p class="paraf"><b>Website Name:</b> RESPONSIVE WEB DESIGN</p>
+			<p><b>Coded:</b> Mark</p>
+			<p><b>Using:</b> HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY</p>
+			<p><b>About:</b>Responsive web design (RWD) is a web development approach that creates dynamic changes to the appearance of a website, depending on the screen size and orientation of the device being used to view it.</p>
+			<p><a href=https://codepen.io/markchanmarbella/pen/mdpKxVd target="_blank">Visit site<span class="glyphicon glyphicon-share"></span></a></p>
+			<span class="glyphicon glyphicon-remove-circle close"></span>
+		</div>
+		</div>
